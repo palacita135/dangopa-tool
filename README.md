@@ -6,7 +6,7 @@ clone this repository
     git clone https://github.com/palacita135/dangopa-tool.git
     cd dangopa-tool
     chmod +x dangopa.py
-    sudo python3 dangopa.py
+    python3 dangopa.py
 
 Commands available:
     
