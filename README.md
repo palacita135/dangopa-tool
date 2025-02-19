@@ -8,6 +8,8 @@ clone this repository
     chmod +x dangopa.py
     python3 dangopa.py
 
+don't forget to replace your Shodan API KEY
+
 Commands available:
     
     email <URL> → Find emails on a website.
